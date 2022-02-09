@@ -1,1 +1,6 @@
-
+./a.out
+Enter a positive number:
+12
+Enter a positive number:
+16
+GCD of 12 and 16 is 4
