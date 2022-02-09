@@ -1,1 +1,9 @@
-
+gcc -g p2original.c
+ ./a.out
+enter the side:
+3
+enter the side:
+4
+enter the side:
+5
+the triangle of sides 3 4 5 is scalene
