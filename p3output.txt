@@ -1,1 +1,5 @@
-
+gcc -g p3original.c
+ ./a.out
+Enter a number:
+8
+8 is a composite number.
